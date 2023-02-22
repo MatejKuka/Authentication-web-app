@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b31ac6a-3774-457a-9efd-b6c0e82c9293" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LbCwHdIwyidkKC7SzyZ3AnJvbZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\WebstormProjects\redux-auth\backend\authentication\utils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b31ac6a-3774-457a-9efd-b6c0e82c9293" name="Changes" comment="" />
+      <created>1676130632422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676130632422</updated>
+      <workItem from="1676130633488" duration="1168000" />
+      <workItem from="1676184987579" duration="2099000" />
+      <workItem from="1676205156261" duration="2177000" />
+      <workItem from="1676210698274" duration="63000" />
+      <workItem from="1676213320531" duration="1638000" />
+      <workItem from="1676292259582" duration="116000" />
+      <workItem from="1676295789677" duration="3211000" />
+      <workItem from="1676302366808" duration="11000" />
+      <workItem from="1676310403704" duration="1258000" />
+      <workItem from="1676335821855" duration="708000" />
+      <workItem from="1676372715714" duration="613000" />
+      <workItem from="1676377384737" duration="1299000" />
+      <workItem from="1676378707813" duration="181000" />
+      <workItem from="1676477212151" duration="6238000" />
+      <workItem from="1676497395784" duration="4402000" />
+      <workItem from="1676501952897" duration="507000" />
+      <workItem from="1676547138355" duration="502000" />
+      <workItem from="1676552365104" duration="2316000" />
+      <workItem from="1676554855769" duration="91000" />
+      <workItem from="1676557372201" duration="13000" />
+      <workItem from="1676593512249" duration="626000" />
+      <workItem from="1676638194756" duration="529000" />
+      <workItem from="1676719375937" duration="5612000" />
+      <workItem from="1677007971829" duration="596000" />
+      <workItem from="1677072085115" duration="851000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed broken crypting for database">
+      <created>1676500587242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676500587242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fd">
+      <created>1676500898070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676500898070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed broken crypting for database">
+      <created>1676501044163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676501044163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vdxvf">
+      <created>1676501200406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676501200406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="vdxvf">
+      <created>1676502028731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676502028731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="vdxvf">
+      <created>1676502052189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676502052189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rteergd">
+      <created>1676547503572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676547503572</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rteergd">
+      <created>1676547551242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676547551242</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed input validation">
+      <created>1676723645819</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676723645819</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="fd" />
+    <MESSAGE value="fixed broken crypting for database" />
+    <MESSAGE value="vdxvf" />
+    <MESSAGE value="rteergd" />
+    <MESSAGE value="fixed input validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed input validation" />
+  </component>
+</project>
